@@ -565,6 +565,12 @@ strong {
   padding-left: 32px;
 }
 
+@media (min-width: 376px) {
+  .slick-slideshow .slick-dots {
+    max-width: 340px;
+  }
+}
+
 @media (min-width: 576px) {
   .slick-slideshow .slick-dots {
     max-width: 540px;
