@@ -356,7 +356,7 @@ strong {
 
 .navbar-brand {
   color: var(--dark-color);
-  font-size: 1vw;
+  font-size: 18px;
   font-weight: var(--font-weight-light);
   margin: 0;
   padding: 0;
