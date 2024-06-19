@@ -354,7 +354,7 @@ strong {
   transform: translate(0, -150%);
 }
 
-@media (min-width: 375px) {
+@media (max-width: 375px) {
   .navbar-brand {
     font-size: 18px;
   }
@@ -569,12 +569,6 @@ strong {
   display: inline-block;
   padding-right: 32px;
   padding-left: 32px;
-}
-
-@media (min-width: 376px) {
-  .slick-slideshow .slick-dots {
-    max-width: 340px;
-  }
 }
 
 @media (min-width: 576px) {
