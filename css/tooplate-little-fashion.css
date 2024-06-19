@@ -333,7 +333,7 @@ strong {
   right: 0;
   left: 0;
   padding: 15px 0;
-  z-index: 1.5;
+  z-index: 2;
   will-change: transform;
   transition: transform 300ms linear;
 }
@@ -380,7 +380,7 @@ strong {
   top: 100%;
   left: 0;
   width: 100%;
-  height: 1.5px;
+  height: 2px;
   background: var(--grey-color);
   content: '';
   opacity: 0;
