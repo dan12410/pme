@@ -354,6 +354,12 @@ strong {
   transform: translate(0, -150%);
 }
 
+@media (max-width: 365px) {
+  .navbar-brand {
+    font-size: 18px;
+  }
+}
+
 .navbar-brand {
   color: var(--dark-color);
   font-size: 24px;
